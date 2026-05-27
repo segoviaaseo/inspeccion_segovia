@@ -1,0 +1,6 @@
+{
+  "name": "Segovia Aseo",
+  "description": "Aplicación de inspección preoperacional de vehículos para Segovia Aseo S.A. E.S.P. con almacenamiento en la nube y generación de PDF compacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
